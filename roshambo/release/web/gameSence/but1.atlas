@@ -1,0 +1,127 @@
+{
+    "frames": {
+        "draw.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 507,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 92,
+                "w": 510
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "lose.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 507,
+                "x": 0,
+                "y": 91
+            },
+            "sourceSize": {
+                "h": 92,
+                "w": 510
+            },
+            "spriteSourceSize": {
+                "x": 1,
+                "y": 1
+            }
+        },
+        "paper.png": {
+            "frame": {
+                "h": 110,
+                "idx": 0,
+                "w": 105,
+                "x": 281,
+                "y": 273
+            },
+            "sourceSize": {
+                "h": 110,
+                "w": 105
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "rock.png": {
+            "frame": {
+                "h": 98,
+                "idx": 0,
+                "w": 104,
+                "x": 281,
+                "y": 384
+            },
+            "sourceSize": {
+                "h": 98,
+                "w": 104
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "scissors.png": {
+            "frame": {
+                "h": 119,
+                "idx": 0,
+                "w": 107,
+                "x": 173,
+                "y": 273
+            },
+            "sourceSize": {
+                "h": 119,
+                "w": 107
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "selectBtn.png": {
+            "frame": {
+                "h": 213,
+                "idx": 0,
+                "w": 172,
+                "x": 0,
+                "y": 273
+            },
+            "sourceSize": {
+                "h": 213,
+                "w": 172
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "win.png": {
+            "frame": {
+                "h": 90,
+                "idx": 0,
+                "w": 507,
+                "x": 0,
+                "y": 182
+            },
+            "sourceSize": {
+                "h": 90,
+                "w": 507
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    },
+    "meta": {
+        "image": "but1.png",
+        "prefix": "but1/"
+    }
+}
